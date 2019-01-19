@@ -1,6 +1,6 @@
 {
-    "name": "sirv/test",
-    "description": "just a test",
+    "name": "sv331/gitlab-ci-php-example",
+    "description": "Example of GitLab CI settings for PHP projects",
 
     "autoload": {
         "psr-4": {
